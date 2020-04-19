@@ -1,0 +1,180 @@
+/*
+Primary Blue Color: #0000FF
+Primary Red Color: #FF0000
+ */
+
+.product-overlay {
+    background-color: #FF0000;
+}
+
+.mainmenu ul li a:hover, .mainmenu ul li a.active, .shop-menu ul li a.active {
+    color: #FF0000;
+}
+
+.item button:hover {
+    background: #FF0000;
+}
+
+.get {
+    background: #FF0000;
+}
+
+.left-sidebar h2, .brands_products h2 {
+    color: #FF0000;
+}
+
+h2.title {
+    color: #FF0000;
+}
+
+.slider-selection {
+    background: none repeat scroll 0 0 #FF0000;
+}
+
+.tooltip-inner {
+    background-color: #FF0000;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: #FF0000;
+}
+
+.footer-bottom p span a {
+    color: #FF0000;
+}
+
+a#scrollUp {
+    background: #FF0000;
+}
+
+.btn.btn-primary {
+    background: #FF0000;
+}
+
+.productinfo h2 {
+    color: #FF0000;
+}
+
+.product-overlay .add-to-cart, .product-overlay .add-to-cart:hover {
+    color: #FF0000;
+}
+
+.product-image-wrapper {
+    border: 1px solid #FF0000;
+}
+
+.searchform button, .searchform button:hover {
+    background: #FF0000;
+}
+
+.category-products {
+    border: 1px solid #FF0000;
+}
+
+.add-to-cart {
+    background: #FF0000;
+    color: #FFFFFF;
+}
+
+.recommended-item-control i {
+    background: none repeat scroll 0 0 #FF0000;
+}
+
+.nav-tabs li.active a, .nav-tabs li.active a:hover, .nav-tabs li.active a:focus {
+    background-color: #FF0000;
+}
+
+.category-tab ul {
+    background: #40403E;
+    border-bottom: 1px solid #FF0000;
+}
+
+.product-information span span {
+    color: #FF0000;
+}
+
+.cart {
+    background: #FF0000;
+}
+
+.view-product img {
+    border: 1px solid #FF0000;
+}
+
+.product-information {
+    border: 1px solid #FF0000;
+}
+
+/*.header-middle .container .row {
+    border-bottom: 1px solid #FF0000;
+}*/
+
+.control-carousel, .control-carousel:hover {
+    color: #FF0000;
+}
+
+.carousel-indicators li.active {
+    background: #FF0000;
+}
+
+.navbar-toggle {
+    background-color: #FF0000;
+}
+
+ul.sub-menu {
+    background: #FF0000;
+}
+
+/*
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+}
+*/
+
+.navbar-default {
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.dropdown-header {
+    color: #FF0000;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #FFFFFF;
+    background-color: #FF0000;
+}
+
+.shop-menu ul li a:hover {
+    background: #FFFFFF;
+    color: #0000FF;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #0000FF;
+}
+
+.dropdown-menu li a {
+    color: #555;
+}
+
+.dropdown-menu li a:hover {
+    color: #0000FF;
+}
+
+.dropdown-menu li a:hover, .dropdown-menu li a:focus {
+    background-color: #ffffff;
+}
+
+.searchform input {
+    border: 1px solid #FF0000;
+}
+
+.tab-pane ul {
+    background-color: #ffffff;
+    border-bottom: none;
+}
+
+.contact-info .social-networks ul li a i:hover {
+    color: #0000FF;
+}
